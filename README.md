@@ -1,4 +1,4 @@
-#Juego de Parejas en React
+Juego de Parejas en React
 Este es un juego de cartas tipo "Memoria" o "Parejas" implementado con React. El objetivo del juego es emparejar cartas con imágenes similares, girándolas una a una hasta encontrar los pares correctos. El jugador gana cuando todos los pares son encontrados y las cartas se emparejan correctamente.
 
 Características:
